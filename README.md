@@ -48,12 +48,6 @@ rendering an unstyled card.
 
 ## Before going live
 
-- `SITE` in `build.py` — name, tagline, url, email, LinkedIn, ORCID.
 - `COLLECT_ENDPOINT` in `static/scripts.js` — the Cloudflare Worker URL.
   Empty means no requests are sent, so the site is safe to deploy before the
   Worker exists.
-- `static/images/qr-placeholder.svg` — **not scannable.** Generate a real
-  static QR for `https://yoursite.com/?ref=qr` and replace it.
-- `static/images/portrait-placeholder.svg` — real portrait.
-- Placeholder copy lives in `templates/base.html` (Home, About, Contact) and in
-  each project YAML.
