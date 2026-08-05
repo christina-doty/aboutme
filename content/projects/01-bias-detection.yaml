@@ -1,0 +1,13 @@
+title: Bias detection in hiring models
+subtitle: Surfacing demographic disparities in candidate scoring
+body: >
+  Placeholder copy. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  A framework for surfacing demographic disparities in candidate scoring before
+  a model ever reaches a recruiter, with per-group threshold analysis and a
+  plain-language report for hiring teams.
+category: responsible-ai
+order: 10
+image: images/placeholder-bars-1.svg
+image_alt: Placeholder chart showing scoring distribution by group
+link: https://github.com/you/bias-detection
+link_label: View on GitHub

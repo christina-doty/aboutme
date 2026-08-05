@@ -1,0 +1,9 @@
+title: Explainability toolkit
+subtitle: Attribution methods built for non-technical stakeholders
+body: >
+  Placeholder copy. Sed do eiusmod tempor incididunt ut labore et dolore magna
+  aliqua. Feature attribution for tabular and NLP models, wrapped in an output
+  format that a policy team can read without a stats background.
+category: responsible-ai
+order: 20
+link: https://github.com/you/explainability-toolkit

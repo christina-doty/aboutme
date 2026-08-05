@@ -1,0 +1,21 @@
+<article class="card{% if project.get('image') %} card--has-media{% endif %}" data-category="{{ project.category }}">
+  <div class="card__main">
+    <p class="card__category">{{ categories.get(project.category, project.category) }}</p>
+    <h3 class="card__title">{{ project.title }}</h3>
+    <p class="card__subtitle">{{ project.subtitle }}</p>
+    <p class="card__body">{{ project.body }}</p>
+
+    {% if project.get('link') %}
+    <a class="btn btn--card" href="{{ project.link }}" rel="noopener">
+      <span class="btn__label">{{ project.get('link_label') or 'View project' }}</span>
+      <span class="btn__glint" aria-hidden="true"></span>
+    </a>
+    {% endif %}
+  </div>
+
+  {% if project.get('image') %}
+  <figure class="card__media">
+    <img src="static/{{ project.image }}" alt="{{ project.get('image_alt') or project.title }}" loading="lazy">
+  </figure>
+  {% endif %}
+</article>

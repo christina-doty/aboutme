@@ -1,0 +1,10 @@
+title: Sentiment classifier
+subtitle: An early look at class imbalance in social media data
+body: >
+  Placeholder copy. Sunt in culpa qui officia deserunt mollit anim id est
+  laborum. An undergraduate project on class imbalance in social media sentiment
+  datasets — kept here because it is where the interest started.
+category: older
+order: 60
+image: images/placeholder-scatter-2.svg
+image_alt: Placeholder scatter plot of sentiment classes
