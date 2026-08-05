@@ -24,14 +24,14 @@ STATIC_DIR = ROOT / "static"
 OUTPUT_DIR = ROOT / "dist"  # build output, never committed — uploaded as a Pages artifact by CI
 
 SITE = {
-    "name": "Jane Doe",
+    "name": "Christina Doty",
     "tagline": "Responsible AI · Bias & interpretability",
-    "url": "https://mysite.com",
-    "email": "jane@example.com",
-    "linkedin": "https://www.linkedin.com/in/example",
-    "linkedin_label": "linkedin.com/in/example",
-    "orcid": "https://orcid.org/0000-0000-0000-0000",
-    "orcid_label": "0000-0000-0000-0000",
+    "url": "https://christinadoty.com",
+    "email": "seedata@christinadoty.com",
+    "linkedin": "https://www.linkedin.com/in/christina-doty-data",
+    "linkedin_label": "linkedin.com/in/christina-doty-data",
+    "orcid": "https://orcid.org/0000-0002-7401-5753",
+    "orcid_label": "0000-0002-7401-5753",
 }
 
 # Category slug → the label shown on cards and in the legend.
