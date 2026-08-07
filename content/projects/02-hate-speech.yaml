@@ -1,0 +1,14 @@
+title: Cross-Lingual hate Speech Detection Probing
+subtitle: How do models define hate speech?
+body: >
+  This project was motived by my belief that a deeper understanding of how models
+  learn to define and detect hate speech may provide guidance on what to focus on
+  in building training datasets, and where the models can be deployed most effectively.
+  I found that a multilingual model trained on both English and Korean hate speech datasets
+  learned a 'clearer definition' of hate speech than either monolingual model, suggesting
+  that each language brings a different view of hate speech to the table and combine to form
+  a more 'complete' dataset.
+category: responsible-ai
+order: 20
+link: https://drive.google.com/file/d/18osb__8EHOD5Qmw9UT3Q6HRM1pNbJOP-/view?usp=sharing
+link_label: View Paper on Google Drive

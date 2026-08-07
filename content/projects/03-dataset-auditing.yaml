@@ -1,8 +1,0 @@
-title: Dataset auditing pipeline
-subtitle: Representation checks that run before training starts
-body: >
-  Placeholder copy. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-  laboris nisi ut aliquip. Automated checks for representation gaps, label noise,
-  and proxy variables, run as a pre-training gate in CI.
-category: responsible-ai
-order: 30

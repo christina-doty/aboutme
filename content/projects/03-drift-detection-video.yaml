@@ -1,0 +1,12 @@
+title: Drift Detection in Video Datasets
+subtitle: Presented at SPIE 2026
+body: >
+  AI systems need continuous performance assurance as models face evolving environments that can
+  degrade performance undetected, but continually labeling new data to check for drift is costly
+  and time consuming. I presented an uncertainty-based drift detection workflow for monitoring
+  motion imagery datasets that requires no labeled operation data, no significant architectural
+  modifications to the deployed model, and is computationally suitable for edge deployment.
+category: responsible-ai
+order: 30
+link: http://dx.doi.org/10.1117/12.3095182
+link_label: View Paper and Presentation

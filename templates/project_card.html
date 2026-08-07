@@ -1,6 +1,6 @@
 <article class="card{% if project.get('image') %} card--has-media{% endif %}" data-category="{{ project.category }}">
   <div class="card__main">
-    <p class="card__category">{{ categories.get(project.category, project.category) }}</p>
+    <!-- <p class="card__category">{{ categories.get(project.category, project.category) }}</p> -->
     <h3 class="card__title">{{ project.title }}</h3>
     <p class="card__subtitle">{{ project.subtitle }}</p>
     <p class="card__body">{{ project.body }}</p>

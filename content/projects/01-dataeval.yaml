@@ -1,0 +1,13 @@
+title: DataEval
+subtitle: An open source python library for evaluating training datasets
+body: >
+  I'm part of the team developing DataEval with the goal of providing data scientists
+  with an easy to use toolkit for quickly surfacing issues with training data including
+  biases, outliers, labeling errors, and incomplete concept coverage. My role centers 
+  on adapting our existing image-centric tools to video data.
+category: responsible-ai
+order: 10
+image: images/placeholder-bars-1.svg
+image_alt: Placeholder chart showing scoring distribution by group
+link: https://dataeval.readthedocs.io/en/v1.1.0-rc2/
+link_label: View DataEval's Documentation

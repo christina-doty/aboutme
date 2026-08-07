@@ -1,0 +1,14 @@
+title: Housing Affordability Dashboard
+subtitle: Helping prospective homeowners understand housing affordability across the U.S.
+body: >
+  I worked on a team of 4, working to show how housing costs have changed over time, and
+  across different regions in the United States. My focus was on correlations between
+  various factors related to the housing market and housing affordability metrics. We 
+  researched, designed visualizations, and conducted a usability study to ensure that
+  our visualization tools were informative and intuitive.
+category: data-viz
+order: 40
+image: images/placeholder-bars-3.svg
+image_alt: Placeholder time series of fairness metrics
+link: https://summer26-housing-livid.vercel.app/
+link_label: View Dashboard

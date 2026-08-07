@@ -1,0 +1,14 @@
+title: User Interface for Few Shot ML Models
+subtitle: Published in Computational Materials Science
+body: >
+  A client had developed a few shot ML model whose reference examples could be
+  crops extracted from a single image. In order to use this model, one had to first
+  divide an image into a grid of patches, label individual patches, then pass those
+  to the model for fine tuning. My team designed a user interface to make that process
+  much easier for the user.
+category: data-viz
+order: 50
+image: images/placeholder-scatter-3.svg
+image_alt: Placeholder scatter plot of embedding projections
+link: https://doi.org/10.1016/j.commatsci.2021.111121
+link_label: View Paper
