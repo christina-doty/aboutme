@@ -7,7 +7,7 @@ body: >
   on adapting our existing image-centric tools to video data.
 category: responsible-ai
 order: 10
-image: images/placeholder-bars-1.svg
-image_alt: Placeholder chart showing scoring distribution by group
+image: images/dataeval-logo.png
+image_alt: DataEval Logo
 link: https://dataeval.readthedocs.io/en/v1.1.0-rc2/
 link_label: View DataEval's Documentation

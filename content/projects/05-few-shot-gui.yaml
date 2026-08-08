@@ -8,7 +8,7 @@ body: >
   much easier for the user.
 category: data-viz
 order: 50
-image: images/placeholder-scatter-3.svg
-image_alt: Placeholder scatter plot of embedding projections
+image: images/few-shot-gui-2.png
+image_alt: Chip Selection Window in the Few Shot GUI
 link: https://doi.org/10.1016/j.commatsci.2021.111121
 link_label: View Paper

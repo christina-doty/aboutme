@@ -8,5 +8,7 @@ body: >
   modifications to the deployed model, and is computationally suitable for edge deployment.
 category: responsible-ai
 order: 30
+image: images/drift-detection-video.png
+image_alt: Drift in Video Datasets Example
 link: http://dx.doi.org/10.1117/12.3095182
 link_label: View Paper and Presentation

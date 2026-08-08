@@ -8,7 +8,7 @@ body: >
   our visualization tools were informative and intuitive.
 category: data-viz
 order: 40
-image: images/placeholder-bars-3.svg
-image_alt: Placeholder time series of fairness metrics
+image: images/housing-affordability-2.png
+image_alt: Market Factor Correlations Plot
 link: https://summer26-housing-livid.vercel.app/
 link_label: View Dashboard
